@@ -12,3 +12,4 @@
 ![alt text](https://github.com/clancymoody/e235/blob/Images/image11.png)
 ![alt text](https://github.com/clancymoody/e235/blob/Images/image12.png)
 ![alt text](https://github.com/clancymoody/e235/blob/Images/image13.png)
+Your text sizing and spacing inbetween images and wording worked out well.
